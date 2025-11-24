@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="KotlinJavaRuntime">
+    <archive path="C:/Users/Nilesh_PC/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/2.1.21/kotlin-stdlib-jdk8-2.1.21.jar" />
+    <archive path="C:/Users/Nilesh_PC/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/2.1.21/kotlin-stdlib-2.1.21.jar" />
+    <archive path="C:/Users/Nilesh_PC/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar" />
+    <archive path="C:/Users/Nilesh_PC/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/2.1.21/kotlin-stdlib-jdk7-2.1.21.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,5 @@
+welcome to the new file.
+
+welcome to the second line.
+
+welcome to test git stash

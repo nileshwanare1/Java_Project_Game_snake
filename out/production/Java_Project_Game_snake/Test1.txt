@@ -1,1 +1,6 @@
+This is test1 file from Basic-change branch
+adding new line
+Thsi is for GIT stach command.
 This is test1 file
+adding new line
+
